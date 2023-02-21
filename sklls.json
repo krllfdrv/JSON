@@ -1,0 +1,52 @@
+{
+"skills": [
+{
+"name": "Fundamentals of Software Testing",
+"subskills": [
+"Types of testing (functional, integration, system, etc.)",
+"Test design (creating test cases, test plans)",
+"Reporting on testing (writing reports, tracking defects)"
+]
+},
+{
+"name": "Automated Testing",
+"subskills": [
+"Basics of test automation",
+"Writing automated tests (using programming languages, testing tools, etc.)",
+"Integrating automated tests into the development process"
+]
+},
+{
+"name": "Programming Fundamentals",
+"subskills": [
+"Basics of programming languages (e.g. Python, Java, JavaScript)",
+"Basics of structured and object-oriented programming",
+"Working with an integrated development environment (IDE)"
+]
+},
+{
+"name": "Database Fundamentals",
+"subskills": [
+"Working with databases (SQL)",
+"Basics of data modeling",
+"Testing databases"
+]
+},
+{
+"name": "Agile and Scrum",
+"subskills": [
+"Basics of Agile methodologies",
+"Scrum framework",
+"Working in an Agile team"
+]
+},
+{
+"name": "Communication Skills",
+"subskills": [
+"Communicating with developers and project managers",
+"Documenting the testing process",
+"Presenting testing results"
+]
+}
+]
+}
