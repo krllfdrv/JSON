@@ -6,7 +6,7 @@
 `git clone https://github.com/krllfdrv/JSON.git`  
  6. Внутри локального JSON создать файл “new.json”.  
 `cd JSON`  
-`ouch new.json`  
+`touch new.json`  
 `git status`  
  7. Добавить файл под гит.   
 `git add new.json`  
@@ -28,7 +28,7 @@
 `vim preferences.json`  
 `cat new.json`  
  14. Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON   
-`touch preferences.json`  
+`touch skills.json`  
 `vim sklls.json`  
 `cat sklls.json`  
  15. Отправить сразу 2 файла на внешний репозиторий.  
