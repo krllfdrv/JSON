@@ -28,14 +28,14 @@
 `vim preferences.json`  
 `cat new.json`  
  14. Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON   
-`touch skills.json`  
+`touch sklls.json`  
 `vim sklls.json`  
 `cat sklls.json`  
  15. Отправить сразу 2 файла на внешний репозиторий.  
 `git status`  
 `git add  preferences.json sklls.json`  
 `git status`  
-`git commit -m "added skills and preferences"`  
+`git commit -m "added sklls and preferences"`  
 `git push`  
  16. На веб интерфейсе создать файл bug_report.json.   
  17. Сделать Commit changes (сохранить) изменения на веб интерфейсе.   
